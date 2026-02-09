@@ -1,2 +1,22 @@
 # writeups
-Here I document the steps taken to solve network team learning-oriented machines of varying difficulty and platforms.
+
+The following table lists the machines and rooms solved so far, sorted by **platform** and **difficulty**, with direct links to each writeup in Markdown.
+
+> All write-ups have an educational and methodological focus.  
+> No flags, real credentials, or sensitive information are included.
+
+| Platform | Machine / Room        | Difficulty | Writeup |
+|----------|-----------------------|------------|---------|
+| THM      | Ice                   | 🟢 Easy      | [Ver writeup](THM/Easy/Ice.md) |
+| THM      | rRootMe               | 🟢 Easy      | [Ver writeup](THM/Easy/rRootMe.md) |
+| THM      | Pickle Rick           | 🟢 Easy      | [Ver writeup](THM/Easy/PickleRick.md) |
+| THM      | Bolt                  | 🟢 Easy      | [Ver writeup](THM/Easy/Bolt.md) |
+| THM      | Vulnversity           | 🟢 Easy      | [Ver writeup](THM/Easy/Vulnversity.md) |
+| THM      | Basic Pentesting (JT) | 🟢 Easy      | [Ver writeup](THM/Easy/BasicPentestingJT.md) |
+| VulnHub  | Basic Pentesting 1    | 🟢 Easy      | [Ver writeup](VulnHub/Easy/BasicPentesting1.md) |
+| VulnHub  | Basic Pentesting 2    | 🟢 Easy      | [Ver writeup](VulnHub/Easy/BasicPentesting2.md) |
+
+
+---
+
+> This repository is continuously updated as new machines are solved and old write-ups are refined.
