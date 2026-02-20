@@ -7,14 +7,15 @@ The following table lists the machines and rooms solved so far, sorted by **plat
 
 | Platform | Machine / Room        | Difficulty | Writeup |
 |----------|-----------------------|------------|---------|
+| VulnHub  | Basic Pentesting 1    | 🟢 Easy      | [See writeup](VulnHub/Easy/Basic%20Pentesting%201.md) |
+| VulnHub  | Basic Pentesting 2    | 🟢 Easy      | [See writeup](VulnHub/Easy/Basic%20Pentesting%202.md) |
 | THM      | Ice                   | 🟢 Easy      | [See writeup](THM/Easy/Ice.md) |
 | THM      | rRootMe               | 🟢 Easy      | [See writeup](THM/Easy/rRootMe.md) |
 | THM      | Pickle Rick           | 🟢 Easy      | [See writeup](THM/Easy/PickleRick.md) |
 | THM      | Bolt                  | 🟢 Easy      | [See writeup](THM/Easy/Bolt.md) |
 | THM      | Vulnversity           | 🟢 Easy      | [See writeup](THM/Easy/Vulnversity.md) |
 | THM      | Basic Pentesting (JT) | 🟢 Easy      | [See writeup](THM/Easy/BasicPentestingJT.md) |
-| VulnHub  | Basic Pentesting 1    | 🟢 Easy      | [See writeup](VulnHub/Easy/Basic%20Pentesting%201.md) |
-| VulnHub  | Basic Pentesting 2    | 🟢 Easy      | [See writeup](VulnHub/Easy/Basic%20Pentesting%202.md) |
+
 
 
 ---
