@@ -1,6 +1,6 @@
 # writeups
 
-The following table lists the machines and rooms solved so far, sorted by **platform** and **difficulty**, with direct links to each writeup in Markdown.
+The following table lists the machines and rooms solved so far, sorted by **platform** and **difficulty**, with direct links to each writeup.
 
 > All write-ups have an educational and methodological focus.  
 > No flags, real credentials, or sensitive information are included.
