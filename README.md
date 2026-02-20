@@ -13,8 +13,8 @@ The following table lists the machines and rooms solved so far, sorted by **plat
 | THM      | Bolt                  | 🟢 Easy      | [Ver writeup](THM/Easy/Bolt.md) |
 | THM      | Vulnversity           | 🟢 Easy      | [Ver writeup](THM/Easy/Vulnversity.md) |
 | THM      | Basic Pentesting (JT) | 🟢 Easy      | [Ver writeup](THM/Easy/BasicPentestingJT.md) |
-| VulnHub  | Basic Pentesting 1    | 🟢 Easy      | [Ver writeup](VulnHub/Easy/BasicPentesting1.md) |
-| VulnHub  | Basic Pentesting 2    | 🟢 Easy      | [Ver writeup](VulnHub/Easy/BasicPentesting2.md) |
+| VulnHub  | Basic Pentesting 1    | 🟢 Easy      | [Ver writeup](VulnHub/Easy/Basic%20Pentesting%201.md) |
+| VulnHub  | Basic Pentesting 2    | 🟢 Easy      | [Ver writeup](VulnHub/Easy/Basic%20Pentesting%202.md) |
 
 
 ---
