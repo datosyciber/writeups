@@ -17,9 +17,9 @@ MAC Address: 12:62:4D:86:3F:DF (Unknown)
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
-![[Pasted image 20260221123347.png]]
+![imagen](https://github.com/user-attachments/assets/4732318f-8069-49d7-81a3-2e3c383f8a99)
 
-![[Pasted image 20260221123655.png]]
+![imagen](https://github.com/user-attachments/assets/e0562e95-eb11-4b01-8925-30573b2abb2c)
 
 Note to self, remember username!
 Username: R1ckRul3s
